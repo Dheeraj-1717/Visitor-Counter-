@@ -31,5 +31,3 @@
 6. Customization:
    - Modify the code to suit specific requirements, such as adjusting the sensitivity of the PIR sensor or implementing additional features like data logging.
    - Enhance the project by integrating it with other sensors or IoT platforms for more advanced functionality.
-
-By building a visitor counter with Arduino and a PIR sensor, you can create a simple yet effective solution for various applications involving motion detection and visitor tracking.
